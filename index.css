@@ -1,0 +1,12 @@
+.bg{
+position: absolute;
+top:0vh;
+left:0vh;
+cursor:url('img/s.png'), auto;
+}
+
+.water{
+  position: absolute;
+  top:-2vh;
+  left:113vh;
+}
