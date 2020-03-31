@@ -8,5 +8,6 @@ cursor:url('img/s.png'), auto;
 .water{
   position: absolute;
   top:-2vh;
-  left:113vh;
+  left:106vh;
+  cursor:url('img/s.png'), auto;
 }
