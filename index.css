@@ -11,3 +11,143 @@ cursor:url('img/s.png'), auto;
   left:106vh;
   cursor:url('img/s.png'), auto;
 }
+
+.w1{
+position: absolute;
+top:20vh;
+left:0vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+
+.w1:hover{
+  opacity:0;
+}
+
+
+.w2{
+position: absolute;
+top:68vh;
+left:60vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w2:hover{
+  opacity:0;
+}
+
+
+
+.w3{
+position: absolute;
+top:30vh;
+left:100vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w3:hover{
+  opacity:0;
+}
+
+
+.w4{
+position: absolute;
+top:70vh;
+left:90vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w4:hover{
+  opacity:0;
+}
+
+.w5{
+position: absolute;
+top:20vh;
+left:120vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w5:hover{
+  opacity:0;
+}
+.w6{
+position: absolute;
+top:50vh;
+left:160vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+
+.w6:hover{
+  opacity:0;
+  cursor:url('img/s.png'), auto;
+}
+
+.w7{
+position: absolute;
+top:30vh;
+left:70vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w7:hover{
+  opacity:0;
+}
+
+
+.w8{
+position: absolute;
+top:17vh;
+left:45vh;
+transition:all .3s ease-in;
+cursor:url('img/s.png'), auto;
+}
+
+.w8:hover{
+  opacity:0;
+}
+
+
+.f1{
+position: absolute;
+top:-15vh;
+left:40vh;
+cursor:url('img/s.png'), auto;
+}
+
+.f2{
+position: absolute;
+top:-20vh;
+left:-13vh;
+cursor:url('img/s.png'), auto;
+}
+
+.f3{
+position: absolute;
+top:45vh;
+left:10vh;
+cursor:url('img/s.png'), auto;
+}
+
+
+.f4{
+position: absolute;
+top:5vh;
+left:90vh;
+cursor:url('img/s.png'), auto;
+}
+
+.f5{
+position: absolute;
+top:-10vh;
+left:80vh;
+cursor:url('img/s.png'), auto;
+}
